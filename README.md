@@ -35,8 +35,8 @@ Os valores de "ops" representam o número de operações/comparações realizada
 
 Para validar a eficiência acumulada, foi realizado o teste de **1.000 buscas sucessivas** em um vetor de 100.000 elementos (alvo na posição 5):
 
-**Busca Simples:** ~100ns
-**Busca com Interrupção:** ~0ns (abaixo da precisão de medição)
+- **Busca Simples:** ~100ns 
+- **Busca com Interrupção:** ~0ns (abaixo da precisão de medição) 
 
 Este teste demonstra que, em operações repetitivas, a economia de recursos é exponencialmente superior no algoritmo otimizado.
 
