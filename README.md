@@ -1,6 +1,6 @@
 # Relatório Técnico: Experimento de Algoritmos de Busca em Rust
 **Estudante:** Sergio Pinton Pavanelli  
-**RA:** 123220202
+**RA:** 123220202  
 **Curso:** Ciência da Computação  
 **Disciplina:** Estrutura de Dados e Análise de Algoritmos (EDAA)  
 **Data:** 25 de Fevereiro de 2026  
