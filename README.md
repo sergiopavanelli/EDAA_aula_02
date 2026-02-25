@@ -1,7 +1,10 @@
 # Relatório Técnico: Experimento de Algoritmos de Busca em Rust
 **Estudante:** Sergio Pinton Pavanelli  
-**Curso:** Ciência da Computação (EDAA)  
+**RA: 123220202**  
+**Curso:** Ciência da Computação  
+**Disciplina:** Estrutura de Dados e Análise de Algoritmos (EDAA)  
 **Data:** 25 de Fevereiro de 2026  
+**Professor:** Alexandre Montanha  
 
 ---
 
@@ -122,4 +125,4 @@ Enquanto a busca simples possui custo fixo **O(n)**, a busca com interrupção o
 
 ---
 
-**Documento gerado para a Aula 02 - Professor Alexandre Montanha.**
+**Documento gerado como relatório final da atividade proposta para a Aula 02 - Professor Alexandre Montanha.**
