@@ -83,7 +83,7 @@ fn contar_ocorrencias(vetor: &[i32], alvo: i32) -> usize {
 
 O gráfico gerado demonstra a complexidade linear **O(n)** da busca simples, onde o número de operações cresce em linha reta proporcionalmente ao tamanho da entrada, contrastando com o custo variável da busca interrompida.
 
-![Gráfico de Eficiência de Busca](./grafico.pdf)
+![Gráfico de Eficiência de Busca](./grafico.png)
 
 ---
 
